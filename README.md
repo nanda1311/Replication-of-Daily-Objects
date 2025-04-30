@@ -6,7 +6,7 @@ Welcome to the **Modern eCommerce Static Website** – a sleek, responsive, and 
 
 ## 🌐 Live Demo
 
-👉 [View Live Site](https://your-live-url.com)
+👉 [View Live Site](https://replication-of-daily-objects.netlify.app)
 
 ## ✨ Features
 
