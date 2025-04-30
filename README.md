@@ -24,7 +24,7 @@ Welcome to the **Modern eCommerce Static Website** – a sleek, responsive, and 
 - CSS3
 - JavaScript
 - Bootstrap 5 (for layout and responsiveness)
-- Google Fonts and Font Awesome (icons)
+- Google Fonts and Font Awesome (icons) 
 
 ## 📸 Screenshots
 
